@@ -21,5 +21,5 @@ User_Score — оценка пользователей (максимум 10)
 
 
 ## Используемые библиотеки
-*Matplotlib,NumPy,Pandas*
+*Matplotlib, NumPy, Pandas, Seaborn, Plotly, Scipy*
 
