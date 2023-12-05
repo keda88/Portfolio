@@ -26,4 +26,4 @@
 Подготовить отчёт для заказчика.
 
 ## Используемые библиотеки
-*Matplotlib, NumPy, Pandas, Seaborn, Plotly, Scipy*
+*pandas matplotlib seaborn numpy plotly scipy pipeline skimpy Scikit-Learn catboost* 
